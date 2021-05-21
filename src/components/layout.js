@@ -17,4 +17,4 @@ const Layout = ({ pagetitle, children }) => {
     )
 }
 
-export default L
+export default Layout;
